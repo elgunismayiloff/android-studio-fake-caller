@@ -5,7 +5,7 @@ Android Studio Fake Caller Source Code
 Xətalar olarsa, zəhmət olmasa məndə bildirin ki, düzəlişlər edim.
 Aplikasiyanın mənbə kodu tam pulsuzdur. Əsas hissəsi yazılıb, sadəcə front işləri görülməlidir.
 Nömrə və ad yazıb ötürürük və saxta zəng gəlir.<br>
-<b><i>Təbii ki, tam istifadə hüququna maliksiniz. İstədiyiniz dəyişikliyi edə bilərsiniz.</i></b><br>
+<b><i>Təbii ki, tam istifadə hüququna maliksiniz. İstədiyiniz dəyişikliyi edə bilərsiniz Ulduz verməyi unutmayın.</i></b><br>
 Tətbiqin ekran görüntüləri:<br>
 <img src="screenshots/s1.png" width="300" height="600" alt="Fake Caller Source Code"/>
 <img src="screenshots/s2.png" width="300" height="600" alt="Fake Caller Source Code"/>
