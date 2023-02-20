@@ -7,8 +7,8 @@ Aplikasiyanın mənbə kodu tam pulsuzdur. Əsas hissəsi yazılıb, sadəcə fr
 Nömrə və ad yazıb ötürürük və saxta zəng gəlir.<br>
 <b><i>Təbii ki, tam istifadə hüququna maliksiniz. İstədiyiniz dəyişikliyi edə bilərsiniz.</i></b><br>
 Tətbiqin ekran görüntüləri:<br>
-<img src="screenshots/s1.jpg" alt="Fake Caller Source Code"/>
-<img src="screenshots/s2.jpg" alt="Fake Caller Source Code"/>
+<img src="screenshots/s1.png" alt="Fake Caller Source Code"/>
+<img src="screenshots/s2.png" alt="Fake Caller Source Code"/>
 
 Android 13 üçün hazır vəziyyətdədir. Kitabxanalar son versiyadı.<br>
 
